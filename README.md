@@ -3,7 +3,7 @@
 My name is Lucas, I'm from Argentina and I'm a frontend developer
 
 * Currently looking for a job but doing a lot of projects. 
-* I would love to work in an startup.
+* I would love to work in a startup.
 
 ## Skills
 
