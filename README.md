@@ -6,7 +6,7 @@ My name is Lucas, a frontend developer from Argentina
 
 ## Skills
 
-* React.js
+* React.js, Next.js
 * Javascript, Typescript
 * Tailwind.css, Chakra UI.
 * Git, Figma
