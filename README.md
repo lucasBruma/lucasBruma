@@ -1,8 +1,6 @@
 ## Hello 👋
 
-My name is Lucas, a frontend developer from Argentina
-
-* Currently looking for an opportunity to work in Tech but doing a lot of projects. 
+My name is Lucas and I'm a frontend developer from Argentina
 
 ## Skills
 
