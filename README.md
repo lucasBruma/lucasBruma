@@ -1,14 +1,13 @@
-## Hello 👋
+## Heyyy! 👋 How is it going? Hope you are doing well :) 
 
-I'm a frontend developer from Argentina.
+I'm a passionate frontend developer from Argentina.
 
-## Skills
+## Some of the technologies I know.
 
 * React.js, Next.js
 * Javascript, Typescript
-* Tailwind.css, Chakra UI.
+* Tailwind.css, Chakra UI, StyledComponents
 * Git, Figma
-* Critical thinking, decision-making and problem solving skills
 
 ## Contact
 
