@@ -1,13 +1,10 @@
 ## Heyyy! 👋 How is it going? Hope you are doing well :) 
 
-I'm a passionate frontend developer from Argentina.
+Building things 🛠️
 
-## Some of the technologies I know.
+Frontend developer specialising in React, Next.js and Typescript. Passionate about user experience. Driven to make quality code which is clean and maintainable.
 
-* React.js, Next.js
-* Javascript, Typescript
-* Tailwind.css, Chakra UI, StyledComponents
-* Git, Figma
+I have also gained valuable experience working with Node.js, GraphQL, and RESTful APIs, as well as seamlessly integrating Headless CMS platforms like Payload.
 
 ## Contact
 
