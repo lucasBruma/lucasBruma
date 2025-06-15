@@ -4,4 +4,4 @@ Building things 🛠️
 
 ## Contact
 
-Find all of my socials and resume in my [website](https://www.lucasbrumatti.com/)
+Find all of my socials on my [website](https://www.lucasbrumatti.com/)
